@@ -1,6 +1,6 @@
 ﻿using MemoryLeaks.Lab.EventLeak;
 
-class ProgramBad
+class Program
 {
     static Publisher publisher = new Publisher();
 

@@ -1,6 +1,6 @@
 ﻿namespace MemoryLeaks.Lab.EventLeak;
 
-class ProgramGood
+class Program
 {
     private static Publisher publisher = new Publisher();
 
