@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="AsyncLeak\Program.Bad.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AsyncLeak\Program.Bad.cs" />
+  </ItemGroup>
+
 </Project>
