@@ -4,7 +4,7 @@ class Program
 {
     static Publisher publisher = new Publisher();
 
-    static void Main1()
+    static void Main()
     {
         CreateSubscribers();
 

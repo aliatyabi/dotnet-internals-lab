@@ -1,6 +1,6 @@
 ﻿namespace MemoryLeaks.Lab.AsyncLeak;
 
-internal class ProgramGood
+internal class Program
 {
     public static async Task Main(string[] args)
     {
